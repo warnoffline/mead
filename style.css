@@ -5,6 +5,10 @@
     font-size: 30px;
     box-sizing: border-box;
 }
+@font-face {
+    font-family: "SK Nigar RUS"; 
+    src: url("./fonts/SKNigarRUS.otf") format("truetype"); 
+} 
 nav{
     width: 100%;
     position: sticky;
