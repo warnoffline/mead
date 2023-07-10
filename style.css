@@ -8,6 +8,8 @@
 @font-face {
     font-family: "SK Nigar RUS"; 
     src: url("./fonts/SKNigarRUS.otf"); 
+    font-style: normal;
+    font-weight: normal;
 } 
 nav{
     width: 100%;
